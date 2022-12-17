@@ -1,0 +1,383 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Roboto+Slab:wght@700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+header img{
+  width: 100%;
+  height: 670px;
+  box-shadow: 4px 3px 5px;
+  
+}
+.header1{
+  position: absolute;
+  bottom: 44rem;
+  left: 58px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 40px;
+  color: rgb(94, 7, 7);
+}
+.header2 span{
+  position: relative;
+  bottom: 28rem;
+  left: 58px;
+  border: 2px solid black ;
+  border-style: dashed;
+  padding: 2px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 18px;
+  color: rgb(94, 7, 7);
+
+}
+.header3{
+  height: 0px;
+}
+.header3 span{
+  position: relative;
+  bottom: 29rem;
+  font-family: 'Roboto Slab', serif;
+  font-size: 135px;
+  left: 50px;
+  color: rgb(94, 7, 7);
+}
+.header3 .week{
+  position: relative;
+  bottom: 450px;
+  left: 54px;
+  color: rgb(94, 7, 7);
+  font-size: 60px;
+}
+.box1{
+  height: 400px;
+  display: flex;
+}
+.box2{
+  height: 400px;
+}
+
+.box2 img{
+  height: 400px;
+  width: 600px;
+  border-radius: 10px;
+  position: relative;
+  left: 130px;
+  top: 30px;
+  box-shadow: 4px 4px 20px;
+}
+.box2 p{
+  color: aqua;
+  position: relative;
+  bottom: 355px;
+  left: 150px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 15px;
+  color: white;
+}
+.box2 span{
+  color: aqua;
+  position: relative;
+  bottom: 355px;
+  left: 150px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 23px;
+  color: white;
+}
+
+.box4 img{
+  width: 550px;
+  height: 190px;
+  border-radius: 10px;
+  position: relative;
+  left: 160px;
+  top: 30px;
+  box-shadow: 4px 4px 20px;
+}
+.box4 p{
+  color: aqua;
+  position: relative;
+  left: 175px;
+  bottom: 145px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 15px;
+  color: white;
+}
+.box4 span{
+  color: aqua;
+  position: relative;
+  left: 175px;
+  bottom: 145px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 23px;
+  color: white;
+}
+
+.box5 img{
+  height: 190px;
+  width: 550px;
+  border-radius: 10px;
+  position: relative;
+  left: 160px;
+  bottom: 35px;
+  box-shadow: 4px 4px 20px;
+}
+.box5 p{
+  color: aqua;
+  position: relative;
+  left: 175px;
+  bottom: 210px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 15px;
+  color: white;
+}
+.box5 span{
+  color: aqua;
+  position: relative;
+  left: 175px;
+  bottom: 210px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 23px;
+  color: white;
+}
+.info {
+  position: relative;
+  top: 80px;
+  text-align:center;
+  left: 40px;
+  
+}
+.info span{
+  background-color: #ffbe00ab;
+  padding: 10px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 23px;
+  color: rgb(94, 7, 7);
+  box-shadow: 4px 4px 20px;
+}
+.enjoy{
+  text-align: center;
+  position: relative;
+  top: 120px;
+  left: 40px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 60px;
+  color: rgb(94, 7, 7);
+  
+}
+.info2{
+ position: relative;
+ text-align: center;
+ top: 130px;
+ left: 39px;
+ font-family: 'Roboto Slab', serif;
+font-size:15px;
+ color: rgb(94, 7, 7);
+}
+.burger_box{
+  display: flex;
+}
+.burger_box img{
+   position: relative;
+   height: 350px;
+   top: 150px;
+   left: 170px;
+}
+.burger1 p{
+  position: relative;
+  left: 305px;
+  top: 120px;
+  font-family: 'Roboto Slab', serif;
+  font-size:25px;
+  color: rgb(94, 7, 7); 
+}
+.burger1 span{
+  font-family: 'Roboto Slab', serif;
+  font-size:15px;
+  color: rgb(94, 7, 7); 
+  position: relative;
+  left: 215px;
+  top: 130px;
+}
+.burger1 button{
+  position: relative;
+  top: 180px;
+  left: 20px;
+  font-family: 'Roboto Slab', serif;
+  font-size:15px;
+  color: white;
+  background-color: rgb(205, 23, 23);
+  padding: 5px;
+  border: none;
+
+}
+.burger2 p{
+  position: relative;
+  left: 305px;
+  top: 120px;
+  font-family: 'Roboto Slab', serif;
+  font-size:25px;
+  color: rgb(94, 7, 7); 
+}
+.burger2 span{
+  font-family: 'Roboto Slab', serif;
+  font-size:15px;
+  color: rgb(94, 7, 7); 
+  position: relative;
+  left: 210px;
+  top: 130px;
+}
+.burger2 button{
+  position: relative;
+  top: 180px;
+  left: 20px;
+  font-family: 'Roboto Slab', serif;
+  font-size:15px;
+  color: white;
+  background-color: rgb(205, 23, 23);
+  padding: 5px;
+  border: none;
+
+}
+.burger3 p{
+  position: relative;
+  left: 305px;
+  top: 120px;
+  font-family: 'Roboto Slab', serif;
+  font-size:25px;
+  color: rgb(94, 7, 7); 
+}
+.burger3 span{
+  font-family: 'Roboto Slab', serif;
+  font-size:15px;
+  color: rgb(94, 7, 7); 
+  position: relative;
+  left: 220px;
+  top: 130px;
+}
+.burger3 button{
+  position: relative;
+  top: 180px;
+  left: 20px;
+  font-family: 'Roboto Slab', serif;
+  font-size:15px;
+  color: white;
+  background-color: rgb(205, 23, 23);
+  padding: 5px;
+  border: none;
+
+}
+.events{
+  display: flex;
+  height: 350px;
+  width: 1200px;
+  position: relative;
+  top: 300px;
+  left: 100px;
+  box-shadow: 4px 4px 20px;
+}
+.event1{
+  width: 550px;
+}
+.event1 p{
+  position: relative;
+  top: 40px;
+  left: 40px;
+  font-family: 'Roboto Slab', serif;
+  font-size:20px;
+  color: rgb(94, 7, 7);
+}
+.event1 span{
+  position: relative;
+  font-family: 'Roboto Slab', serif;
+  font-size:28px;
+  color: rgb(94, 7, 7);
+}
+.einfo{
+  position: relative;
+  top: 70px;
+  left: 40px;
+  font-family: 'Roboto Slab', serif;
+  font-size:13px;
+  color: rgb(94, 7, 7);
+}
+.event2 {
+  height: 200px;
+  position: relative;
+ } 
+.event2 img{
+  height: 320px;
+  width: 560px;
+  position: relative;
+  left: 70px;
+  top: 15px;
+}
+.reservation{
+  position: relative;
+  top :400px;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  font-size:23px;
+  color: rgb(94, 7, 7);
+}
+.reservation span{
+  font-family: 'Roboto Slab', serif;
+  font-size:50px;
+  color: rgb(94, 7, 7);
+}
+.reservation input{
+  height: 50px;
+}
+.list{
+  position: relative;
+  top: 50px;
+  left: 250px;
+  font-family: 'Roboto Slab', serif;
+  font-size:50px;
+  
+}
+.list input{
+  width: 450px;
+  font-family: 'Roboto Slab', serif;
+  font-size:15px;
+  border-radius: 5px;
+}
+.table{
+  background-color:rgb(205, 23, 23) ;
+  font-family: 'Roboto Slab', serif;
+  font-size:23px;
+  height: 50px;
+  color: white;
+  border: none;
+}
+.footer{
+  position: relative;
+  top: 550px;
+  height: 400px;
+}
+.footer img{
+  width: 95%;
+  height: 400px;
+  position: relative;
+  left: 40px;
+  box-shadow: 4px 4px 5px;
+}
+.footer span{
+  color: red;
+  position: relative;
+  bottom: 350px;
+  left: 80px;
+  font-family: 'Roboto Slab', serif;
+  font-size:25px;
+  color: white;
+
+}
+.footer p{
+  color: red;
+  position: relative;
+  bottom: 300px;
+  left: 80px;
+  color: white;
+  font-family: 'Roboto Slab', serif;
+  font-size:15px;
+}
+
