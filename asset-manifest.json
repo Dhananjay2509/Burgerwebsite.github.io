@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Burgerwebsite.github.io/static/css/main.9d0b5ae6.css",
+    "main.js": "/Burgerwebsite.github.io/static/js/main.62f46208.js",
+    "static/media/img3.jpg": "/Burgerwebsite.github.io/static/media/img3.144ef306ceefd036a080.jpg",
+    "static/media/img6.png": "/Burgerwebsite.github.io/static/media/img6.3a02b94cd44d825ebb94.png",
+    "static/media/img5.jpg": "/Burgerwebsite.github.io/static/media/img5.d20d0b83ae12489a96ce.jpg",
+    "static/media/burger1.jpg": "/Burgerwebsite.github.io/static/media/burger1.03cf7d60d7ef27416986.jpg",
+    "static/media/img8.png": "/Burgerwebsite.github.io/static/media/img8.c16612c84d7bd93120ef.png",
+    "static/media/img4.jpg": "/Burgerwebsite.github.io/static/media/img4.7d85d11e124b0d07e4cf.jpg",
+    "index.html": "/Burgerwebsite.github.io/index.html",
+    "main.9d0b5ae6.css.map": "/Burgerwebsite.github.io/static/css/main.9d0b5ae6.css.map",
+    "main.62f46208.js.map": "/Burgerwebsite.github.io/static/js/main.62f46208.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d0b5ae6.css",
+    "static/js/main.62f46208.js"
+  ]
+}
